@@ -23,7 +23,7 @@ It allows HRs or recruiters to create structured, customizable Job Descriptions 
 ---
 
 ## 🗂️ Folder Structure
-'''
+"""
 hr/
 ├── hr_app.py # Main Flask application
 ├── routes.py # All backend routes and DB logic
@@ -32,7 +32,7 @@ hr/
 │ ├── jd_template_internal.html # Full internal JD layout
 │ └── jd_template_public.html # Public JD layout with apply link
 ├── pdfs/ # Output folder for generated PDFs
-'''
+"""
 
 ## Installations required
 pip install flask pymongo pdfkit
