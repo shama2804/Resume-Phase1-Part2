@@ -5,7 +5,6 @@ It allows HRs or recruiters to create structured, customizable Job Descriptions 
 
 ✅ Generates 2 PDFs (internal + public)  
 ✅ Stores JD info in MongoDB  
-✅ Auto-links to candidate form (from Phase 1 - Part 1)
 
 ---
 
