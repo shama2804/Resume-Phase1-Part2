@@ -3,9 +3,9 @@
 This is **Part 2 of Phase 1** of the Resume Ranking project.  
 It allows HRs or recruiters to create structured, customizable Job Descriptions through a clean web interface.
 
-> ✅ Generates 2 PDFs (internal + public)  
-> ✅ Stores JD info in MongoDB  
-> ✅ Auto-links to candidate form (from Phase 1 - Part 1)
+✅ Generates 2 PDFs (internal + public)  
+✅ Stores JD info in MongoDB  
+✅ Auto-links to candidate form (from Phase 1 - Part 1)
 
 ---
 
