@@ -36,7 +36,9 @@ hr/
 
 ## Installations required
 pip install flask pymongo pdfkit
-Install wkhtmltopdf
+
+Install wkhtmltopdf : 
 Required for PDF generation
+
 Download and install from: https://wkhtmltopdf.org/downloads.html
 After installing, add the path to your system’s environment variables.
